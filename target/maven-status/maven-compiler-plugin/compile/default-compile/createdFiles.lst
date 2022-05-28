@@ -1,0 +1,12 @@
+com\example\servlets\LogoutServlet.class
+com\example\servlets\ProductOperationServlet.class
+com\example\entities\User.class
+com\example\servlets\LoginServlet.class
+com\example\dao\UserDao.class
+com\example\entities\Category.class
+com\example\controller\FactoryProvider.class
+com\example\dao\ProductDao.class
+com\example\entities\Product.class
+com\example\servlets\RegistrationServlet.class
+com\example\dao\CategoryDao.class
+com\example\controller\Controller.class
